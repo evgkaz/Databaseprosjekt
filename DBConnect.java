@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class DBConnect {
 	protected Connection conn;
 	private String usrName = "root";
-	private String passWd = "fckngapple1L";
+	private String passWd = "**";
 	private Scanner sc;
 	
 	
